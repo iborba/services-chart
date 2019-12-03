@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   services-chart:
   - apiVersion: v2
-    appVersion: "1.1"
-    created: "2019-12-03T15:07:22.991365533-03:00"
+    appVersion: "1.2"
+    created: "2019-12-03T16:01:28.680132944-03:00"
     description: MPN-Microservices (Services Chart) Helm chart for Kubernetes
-    digest: 354cb2b19dcd9d106a047677946255ff06ffcae010fc00ff807a4ff4493804bf
+    digest: 78a177c1644f8eff5a2735592320fe75689ff4840d37f383b1a630826a6da7ec
     name: services-chart
     urls:
     - https://iborba.github.io/services-chart/services-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-03T15:07:22.99067286-03:00"
+generated: "2019-12-03T16:01:28.678838216-03:00"
